@@ -4,34 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Voting System Project</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            line-height: 1.6;
-        }
-
-        h1, h2, h3 {
-            color: #333;
-        }
-
-        code {
-            background-color: #f4f4f4;
-            padding: 2px 5px;
-            border: 1px solid #ddd;
-            border-radius: 4px;
-        }
-
-        pre {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border: 1px solid #ddd;
-            border-radius: 4px;
-            overflow-x: auto;
-        }
-    </style>
+    
 </head>
 <body>
 
